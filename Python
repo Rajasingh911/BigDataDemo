@@ -1,0 +1,2 @@
+for x in list1:
+    print(x)
